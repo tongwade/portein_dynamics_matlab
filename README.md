@@ -1,2 +1,2 @@
-# portein_dynamics_matlab
+# protein_dynamics_matlab
 protein dynamics analysis
